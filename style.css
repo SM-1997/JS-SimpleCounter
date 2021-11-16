@@ -1,7 +1,12 @@
  body {
     text-align: center;
     font-family: 'Roboto Mono';
-    font-size: 50px;
+    font-size: 75px;
     color: #E2E0E0;
     background-color: #141414;
+  }
+
+  .btn{
+    margin: 5px;
+    font-size: 1.2rem;
   }
